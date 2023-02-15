@@ -1,0 +1,12 @@
+.table-head {
+    background: blue;
+    color: white;
+}
+
+.usual-table {
+    margin-top: 50px;
+}
+
+.empty-column {
+    background: lightgrey;
+}

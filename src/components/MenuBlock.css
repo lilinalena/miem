@@ -1,0 +1,16 @@
+.menu-block {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid blue;
+    height: 50px;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.menu-block-active, .menu-block:hover {
+    background: blue;
+    color: white !important;
+}
